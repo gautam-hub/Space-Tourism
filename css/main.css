@@ -1,0 +1,110 @@
+body{
+    background-image: url("../assets/home/bg1.jpg");
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+.h1space {
+    color:white;
+    text-transform: uppercase;
+    font-family: 'Merriweather', serif;
+    font-size: 100px;
+    margin: 0;
+    font-weight: 120;
+}
+
+.h1explore{
+    color:white;
+    text-transform: uppercase;
+    font-family: 'Merriweather', serif;
+}
+
+h2{
+    color:white;
+    text-transform: uppercase;
+    font-weight: 100;
+    font-size: 20px;
+}
+
+hr{
+    width: 24%;
+    display:inline-block;
+    margin: 0px 0px 20px 97px;
+}
+
+nav{
+    color: white;
+    display: inline-block;
+}
+
+ul{
+    list-style-type: none;
+    margin: 30px 0px 0px 0px;
+    padding: 30px 100px;
+    float: right;
+    background-color: #0B0D17;
+}
+
+li{
+    display: inline;
+    margin: 20px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    text-transform: uppercase;
+}
+
+li a{
+    text-align: center;
+    margin: 5px;
+    color: white;
+    text-decoration: none;
+}
+
+.num{
+    font-family: 'Roboto', sans-serif;
+    color: grey;
+}
+
+.logo{
+    display: inline-block;
+    margin: 45px 0px 0px 50px;
+}
+
+p {
+    color:white;
+    width: 75%;
+    font-weight: 100;
+    line-height: 2;
+    font-size:  15px;
+}
+
+.parent{
+    width: 100%;
+    display: flex;
+    margin-top: 50px;
+}
+
+.space {
+    display: inline-block;
+    width: 30%;
+    margin: 80px 0px 0px 200px;
+}
+
+
+.explore{
+    height: 200px;
+    width: 200px;
+    margin:  auto;
+    border: solid;
+    color: hsl(217, 12%, 63%);
+    border-radius: 50%;
+    background-color: hsl(217, 12%, 63%);
+}
+
+.h1explore{
+    margin: 80px 0px 0px 25px;
+}
+
+a:hover{
+    text-decoration: underline 3px;
+}

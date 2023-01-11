@@ -1,0 +1,145 @@
+body{
+    background-image: url("../assets/destination/background-destination-desktop.jpg");
+    margin: 0;
+    font-family: 'Roboto';
+}
+
+h1{
+    color: White;
+    font-size: 70px;
+    margin: 10px 0px 0px 0px ;
+    font-weight: 300;
+    font-family: 'Bellefair', serif;
+}
+
+h2{
+    color: White;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    text-transform: uppercase;
+}
+
+.moon{
+    height: 350px;
+    width: 350px;
+}
+
+p{
+    color: white;
+}
+
+.list1{
+    list-style-type: none;
+    margin: 30px 0 0 0;
+    padding: 30px 100px;
+    float: right;
+    background-color: #0B0D17;
+}
+
+.list2{
+    list-style-type: none;
+    margin: 0px;
+}
+
+.link1{
+    display: inline;
+    margin: 20px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    text-transform: uppercase;
+}
+
+.link2{
+    display: inline;
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    text-transform: uppercase;
+}
+
+li a{
+    text-align: center;
+    margin: 5px;
+    color: white;
+    text-decoration: none;
+}
+
+li a:hover{
+    text-decoration: underline 3px;
+    
+}
+
+.hr1{
+    width: 24%;
+    display:inline-block;
+    margin: 0px 0px 20px 97px;
+}
+
+table{
+    color: white;
+    margin: 10px auto 0px;
+    border: none;
+    text-align: left;
+    text-transform: uppercase;
+}
+
+td{
+    padding: 10px;   
+}
+
+.num{
+    font-family: 'Roboto', sans-serif;
+    color: grey;
+}
+
+
+.logo{
+    display: inline-block;
+    margin: 45px 0px 0px 50px;
+}
+
+.top-container{
+    display: block;
+    width: 330px;
+    margin: 40px 0px 0px 210px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    text-transform: uppercase;
+}
+
+.middle-container{
+    display: flex;
+    height: auto;
+    width: 100%;
+    margin-top: 30px;
+}
+
+.container1{
+    display: inline-block;
+    width: auto;
+    margin: 0px 0px 0px 200px;
+}
+
+.container2{
+    width: 300px;
+    margin: 0px 250px;
+}
+
+.span1{
+    color:grey;
+    margin-right: 10px;
+}
+
+.row1{
+    font-size: 14px;
+    font-family: 'Roboto';
+    color: grey;
+}
+
+.row2{
+    font-size: 20px;
+    font-weight: 300;
+    font-family: 'Bellefair', serif;
+}
+

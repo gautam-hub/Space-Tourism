@@ -1,0 +1,136 @@
+body{
+    background-image: url("../assets/technology/background-technology-desktop.jpg");
+    margin: 0;
+    color: white;
+}
+
+.child1{
+    display: inline-block;
+    width: 100px;
+    margin: 70px 0px 0px 150px;
+}
+
+.child2{
+    display: inline-block;
+    width: 470px;
+    height: 303px;
+    margin: 100px 0px 0px 50px;
+}
+
+.child3{
+    display: inline-block;
+    margin-left: 180px;
+}
+
+.hr1{
+    width: 22%;
+    display:inline-block;
+    margin: 0px 0px 20px 97px;
+}
+
+h2{
+    margin: 0;
+    text-transform: uppercase;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+}
+
+.heading{
+    font-family: 'Bellefair', serif;
+    font-style: normal;
+    text-transform: uppercase;
+    font-weight: 300;
+    font-size: 50px;
+    margin-top: 15px;
+}
+
+.logo{
+    display: inline-block;
+    margin: 45px 0px 0px 50px;
+}
+
+.list1{
+    list-style-type: none;
+    margin: 30px 0px 0px 0px;
+    padding: 30px 100px;
+    float: right;
+    background-color: #0B0D17;
+}
+
+.list2{
+    list-style-type: none;
+}
+
+.link1{
+    display: inline;
+    margin: 25px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    text-transform: uppercase;
+}
+
+.link2{
+    font-size: 30px;
+    border: solid;
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    text-align: center;
+    padding: 20px 10px 10px 10px;
+    margin: 10px 0px;
+    float: right;
+}
+
+li a{
+    text-align: center;
+    margin: 5px;
+    color: white;
+    text-decoration: none;
+}
+
+li a:hover{
+    text-decoration: underline 3px;
+    
+}
+
+.nav{
+    height: 120px;
+}
+
+.num{
+    color: grey;
+}
+
+.parent{
+    display: flex;
+}
+
+p{
+    width: 75%;
+    color:#F3EDEB;
+    font-size: 15px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    letter-spacing: 1;
+    line-height: 1.5;
+}
+
+.top-container{
+    display: block;
+    width: 300px;
+    margin: 0px 0px 0px 175px;
+    color: white;
+    text-transform: uppercase;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+}
+
+.terminology{
+    font-size: 15px;
+    color:#F3EDEB;
+}
+
+.vehicle {
+    width: 415px;
+    height: 427px;
+}

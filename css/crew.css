@@ -1,0 +1,118 @@
+body{
+    background-image: url("../assets/crew/background-crew-desktop.jpg");
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+.child1{
+    display: inline-block;
+    width: 450px;
+    padding-left: 190px;
+}
+
+.child2{
+    display:inline-block;
+    width: 50%;
+}
+
+.commander{
+    margin: 120px 0px 10px 0px;
+    font-size: 30px;
+    color: grey;
+    font-weight: 300;
+    font-family: 'Bellefair', serif;
+}
+
+.douglas{
+    height: 510px;
+    width: 430px;
+    padding-left: 120px;
+}
+
+h1{
+    font-size: 40px;
+    margin: 0px;
+    font-family: 'Bellefair', serif;
+    font-style: normal;
+    text-transform: uppercase;
+}
+
+.hr1{
+    width: 24%;
+    display:inline-block;
+    margin: 0px 0px 20px 97px;
+}
+
+.heading{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    text-transform: uppercase;
+}
+
+.num{
+    font-family: 'Roboto', sans-serif;
+    color: grey;
+}
+
+
+.list1{
+    list-style-type: none;
+    margin: 30px 0 0 0;
+    padding: 30px 100px;
+    float: right;
+    background-color: #0B0D17;
+}
+
+.link1{
+    display: inline;
+    margin: 22px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    text-transform: uppercase;
+}
+
+li{
+    display:inline
+}
+
+li a{
+    text-align: center;
+    margin: 5px;
+    color: white;
+    text-decoration: none;
+}
+
+li a:hover{
+    text-decoration: underline 3px;
+    
+}
+
+.logo{
+    display: inline-block;
+    margin: 45px 0px 0px 50px;
+}
+
+p{
+    width: 70%;
+    font-size: 15px;
+    letter-spacing:1px;
+    font-family: 'Barlow', sans-serif;
+    font-weight: 400;
+}
+
+.parent{
+    width: 100%;
+    display:flex;
+    color: aliceblue;
+}
+
+ul{
+    list-style-type: none;
+    margin: 20px 0px 0px 10px;
+}
+
+.span1{
+    color:grey;
+    margin-right: 10px;
+}
+
